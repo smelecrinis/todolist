@@ -10,4 +10,4 @@ Simple task list using Javascript
 * createElement
 
 
-![This is an image](https://github.com/smelecrinis/todolist/blob/master/img/task-list-1.png)
+![This is an image](https://github.com/smelecrinis/todolist/blob/master/img/task-list-1.PNG)
