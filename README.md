@@ -1,6 +1,8 @@
 # Task List
 Simple task list using Javascript
 
+To view this click [here](https://smelecrinis.github.io/todolist/)
+
 ### Key concepts covered:
 
 * document.getElementById()
